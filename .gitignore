@@ -1,0 +1,15 @@
+# Python environments
+.venv/
+venv/
+
+# Temporary Python and notebook files
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Mac files
+.DS_Store
+
+# Local settings and secrets
+.vscode/
+.env
